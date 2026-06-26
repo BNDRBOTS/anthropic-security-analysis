@@ -1,4 +1,4 @@
-# THE CON, DOCUMENTED
+# 1. THE CON, DOCUMENTED
 ## A Five-Part Investigation into Anthropic's Claude — June 2026
 
 ---
@@ -38,3 +38,6 @@ This is not opinion. This is the record.
 ---
 
 *Compiled June 16, 2026. Current as of that date.*
+
+--------------
+--------------
